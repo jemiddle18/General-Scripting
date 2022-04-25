@@ -20,7 +20,7 @@ print(pdfread.getDocumentInfo())
 print(pdfread.getNumPages())
 
 '''
-# Extract Mutiple pages from the PDF.
+# Extract entire PDF.
 index = 0 # First page
 
 # While index is less then the total number of pages in PDF
